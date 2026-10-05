@@ -55,3 +55,7 @@ A página inicial pode ser editada em `src/app/page.tsx` — as alterações sã
 - [Documentação do Next.js](https://nextjs.org/docs)
 - [Documentação do Tailwind CSS](https://tailwindcss.com/docs)
 - [Aprenda Next.js](https://nextjs.org/learn)
+
+## Histórico
+
+Este repositório começou como *"Olá, Mundo"*, o primeiro projeto do curso, criado durante uma aula ao vivo (veja `Site-exemplo/index.html`). Foi posteriormente migrado para esta aplicação Next.js.
